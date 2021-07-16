@@ -1,0 +1,23 @@
+main{
+    background-color: black;
+}
+
+.row{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px 0;
+
+}
+
+#empty-space{
+    height: 120px;
+}
+
+#player-ship-row{
+    text-align: center;
+}
+
+#hull-strength{
+    color:yellow;
+    font-size: 12px;
+}
